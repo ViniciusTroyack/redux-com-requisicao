@@ -14,7 +14,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url('https://images3.alphacoders.com/695/thumb-1920-695497.png');
+  background-size: contain;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

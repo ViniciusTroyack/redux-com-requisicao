@@ -1,0 +1,17 @@
+ul{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    background-color: white;
+    width: 15vw;
+    margin: 1vw;
+    color: black;
+    border: 2px solid black;
+}
+
+.card img{
+    width: 60%;
+}
